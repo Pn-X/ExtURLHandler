@@ -1,0 +1,16 @@
+PODS:
+  - ExtURLHandler (0.0.1)
+
+DEPENDENCIES:
+  - ExtURLHandler (from `../`)
+
+EXTERNAL SOURCES:
+  ExtURLHandler:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExtURLHandler: 139a7995ac01dc1b4005af40f2443b37e08c690d
+
+PODFILE CHECKSUM: ea893d3ff945e952c17f45deeb68ddac4ae3765b
+
+COCOAPODS: 1.9.3
